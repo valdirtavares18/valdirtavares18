@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e desenvolvimento de software! Atualmente estou no 8º semestre de Engenharia de Software e atuo como desenvolvedor full-stack, sempre buscando aprender mais e encara[...]  
+Sou apaixonado por tecnologia e desenvolvimento de software! Atualmente estou no 8º semestre de Engenharia de Software e atuo como desenvolvedor full-stack, sempre buscando aprender mais e encarar novos desafios.
 
 ---
 
