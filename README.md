@@ -7,7 +7,7 @@
 
 <p align="center">
   Desenvolvedor de Software <br>
-  Estudante de Engenharia de Software (8º semestre)
+  Estudante de Engenharia de Software (9º semestre)
 </p>
 
 ---
