@@ -7,14 +7,14 @@
 
 <p align="center">
   Desenvolvedor de Software <br>
-  Estudante de Engenharia de Software (9º semestre)
+  Estudante de Engenharia de Software (10º semestre)
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e desenvolvimento de software! Atualmente estou no 8º semestre de Engenharia de Software e atuo como desenvolvedor full-stack, sempre buscando aprender mais e encarar novos desafios.
+Sou apaixonado por tecnologia e desenvolvimento de software! Atualmente estou no 10º semestre de Engenharia de Software e atuo como desenvolvedor full-stack, sempre buscando aprender mais e encarar novos desafios.
 
 ---
 
@@ -29,7 +29,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software! Atualmente estou no
 
 ## 💻 Projetos em Destaque
 
-- [Grupo1BRISA](https://github.com/valdirtavares18/Grupo1BRISA)
+- [ConexãoVoleibol](https://github.com/valdirtavares18/ConexaoVoleibol)
 - [Evento-Gestão](https://github.com/valdirtavares18/evento-gestao)
 
 
